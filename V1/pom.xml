@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.sbibank.org</groupId>
   <artifactId>V1</artifactId>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
   <version>sbi</version>
   <name>V1</name>
   <url>http://maven.apache.org</url>
